@@ -36,7 +36,7 @@ The goal of the project was to have a initial architecture to rely on when creat
 
 
 
-\## 💻 Built With
+## 💻 Built With
 
 ⦁	.NET 8.0 (C#)
 
