@@ -1,4 +1,4 @@
-\# Skeleton Project for .NET with DDD
+# Skeleton Project for .NET with DDD
 
 This project aims to be a skeleton for future projects using .NET Core with DDD pattern.
 
@@ -8,13 +8,13 @@ The project is setup with Entity Framework, and is configured to utilize Postgre
 
 
 
-\## 🌟 About The Project
+## 🌟 About The Project
 
 The goal of the project was to have a initial architecture to rely on when creating new projects, without having to research and create a new one from scratch. This project has basic functionalities such as authentication, policies, separation of concerns, persistence on the database, and as efficient design based on clean architecture.
 
 
 
-\## ✨ Layers
+## ✨ Layers
 
 ⦁	API: The API layer is responsible for handling requests, basic authentication, authorization.
 
@@ -50,7 +50,7 @@ The goal of the project was to have a initial architecture to rely on when creat
 
 
 
-\## 🚀 Getting Started
+## 🚀 Getting Started
 
 Download the .NET C# editor of your preference, for personal projects I usually like Visual Studio Community.
 
@@ -68,7 +68,7 @@ https://www.postgresql.org/download/
 
 
 
-\## 📦 Installation
+## 📦 Installation
 
 Clone the repo
 
@@ -108,7 +108,7 @@ RUN 2: dotnet ef database update
 
 
 
-\## 📖 Usage
+## 📖 Usage
 
 The project uses the SwaggerUI to expose the controllers, to authenticate with the users seeded to the user table you can use the following:
 
