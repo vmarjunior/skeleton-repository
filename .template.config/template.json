@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Valdir Marcheuski Junior",
+  "classifications": [ "Web", "WebAPI" ],
+  "name": "Architecture Web API Skeleton",
+  "identity": "WebAPI.Skeleton",
+  "shortName": "cleanapi",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MySolution",
+  "preferNameDirectory": true
+}
